@@ -10,11 +10,14 @@ p {
 }
 
 img {
-  margin: 20px;
+  margin: 20px auto;
 }
 
-.links {
-  display: flex;
-  justify-content: space-evenly;
-  color: white;
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: green;
 }
