@@ -1,5 +1,20 @@
 body {
   text-align: center;
   margin: 30px auto;
-  max-width: 80%;
+  max-width: 60%;
+  background: #f8e8a6;
+}
+
+p {
+  margin: 20px auto;
+}
+
+img {
+  margin: 20px;
+}
+
+.links {
+  display: flex;
+  justify-content: space-evenly;
+  color: white;
 }
